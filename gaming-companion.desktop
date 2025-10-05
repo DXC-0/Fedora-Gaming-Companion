@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Gaming Companion
+Comment=Une application Python personnalisée
+Exec=/bin/gaming-companion/app.py
+Icon=/usr/share/pixmaps/gc-icon.svg
+Terminal=false
+Type=Application
+Categories=Utility;
